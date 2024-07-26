@@ -1,4 +1,4 @@
-# projeto
+# Projeto
 
 ###SQL (Structured Query Language) é uma linguagem padrão para gerenciar e manipular bancos de dados relacionais. Foi desenvolvida nos anos 70 pela IBM e se tornou um padrão ANSI em 1986. SQL é utilizada para criar, alterar, e gerenciar dados em bancos de dados. As principais operações incluem SELECT (para consultar dados), INSERT (para inserir novos dados), UPDATE (para atualizar dados existentes) e DELETE (para remover dados). Além disso, permite a criação e modificação da estrutura de tabelas e relacionamentos.
 Uma das características mais poderosas do SQL é sua capacidade de realizar consultas complexas que podem envolver múltiplas tabelas através de junções (JOINs). Existem diferentes tipos de junções, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN, cada uma permitindo diferentes maneiras de combinar dados de duas ou mais tabelas. A capacidade de filtrar e ordenar dados, juntamente com a agregação de dados utilizando funções como COUNT, SUM e AVG, torna o SQL indispensável para análise de dados.
